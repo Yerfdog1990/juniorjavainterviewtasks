@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Create a singleton using a Private Constructor and a Public Static Final Field">
+    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Task description">
+      <change afterPath="$PROJECT_DIR$/src/Task1/SingletonClassMethod2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1/SingletonClassMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/SingletonClassMethod1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.SingletonClassMethod1.executor": "Run",
+    "Application.SingletonClassMethod2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -84,7 +85,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722048241136</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create a singleton using a Private Constructor and a Public Static Final Field">
+      <option name="closed" value="true" />
+      <created>1722051677273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722051677273</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task description">
+      <option name="closed" value="true" />
+      <created>1722051741695</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722051741695</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -92,7 +109,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Task 1" />
     <MESSAGE value="Create a singleton using a Private Constructor and a Public Static Final Field" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a singleton using a Private Constructor and a Public Static Final Field" />
+    <MESSAGE value="Task description" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task description" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
