@@ -8,4 +8,31 @@ Create a singleton using a Private Constructor and a Public Static Final Field:
  */
 
 public class SingletonClassMethod1 {
+    //Declare a public static final field to store a single instance
+    public static final SingletonClassMethod1 INSTANCE = new SingletonClassMethod1();
+    //Private field
+    private String message = "Greetings from the single instance.";
+    //Private constructor
+    private SingletonClassMethod1() {
+    }
+    //Method to get message
+    public String getMessage() {
+        return message;
+    }
+    //Main method
+    public static void main(String[] args) {
+        //Reference to the single instance
+        SingletonClassMethod1 singleton1 = SingletonClassMethod1.INSTANCE;
+        System.out.println(singleton1.getMessage());
+        //Another reference to the single instance
+        SingletonClassMethod1 singleton2 = SingletonClassMethod1.INSTANCE;
+        System.out.println(singleton2.getMessage());
+
+        //Check if both references point to the same instance
+        if(singleton1 == singleton2){
+            System.out.println("Both refer to the same single instance.");
+        }else{
+            System.out.println("They refer to different instances.");
+        }
+    }
 }

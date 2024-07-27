@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Create a singleton using a Private Constructor and a Public Static Final Field">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1/SingletonClassMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/SingletonClassMethod1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +43,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.SingletonClassMethod1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
