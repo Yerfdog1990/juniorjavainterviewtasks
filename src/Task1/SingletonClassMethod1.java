@@ -22,13 +22,19 @@ public class SingletonClassMethod1 {
     //Main method
     public static void main(String[] args) {
         //Reference to the single instance
+        System.out.println("Reference to the single instance:");
         SingletonClassMethod1 singleton1 = SingletonClassMethod1.INSTANCE;
-        System.out.println(singleton1.getMessage());
+        System.out.println("Singleton1 reference: " +singleton1);
         //Another reference to the single instance
         SingletonClassMethod1 singleton2 = SingletonClassMethod1.INSTANCE;
+        System.out.println("Singleton2 reference: " +singleton2);
+        //Call getMessage() method
+        System.out.println("Print message:");
+        System.out.println(singleton1.getMessage());
         System.out.println(singleton2.getMessage());
 
         //Check if both references point to the same instance
+        System.out.println("Check if both references point to the same instance.");
         if(singleton1 == singleton2){
             System.out.println("Both refer to the same single instance.");
         }else{

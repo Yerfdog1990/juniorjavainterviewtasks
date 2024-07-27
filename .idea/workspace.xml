@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Task description">
-      <change afterPath="$PROJECT_DIR$/src/Task1/SingletonClassMethod2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Creating a singleton class using a Private Constructor and a Public Static Method">
+      <change beforePath="$PROJECT_DIR$/src/Task1/SingletonClassMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1/SingletonClassMethod1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722051741695</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Creating a singleton class using a Private Constructor and a Public Static Method">
+      <option name="closed" value="true" />
+      <created>1722058021584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1722058021584</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -110,7 +117,8 @@
     <MESSAGE value="Task 1" />
     <MESSAGE value="Create a singleton using a Private Constructor and a Public Static Final Field" />
     <MESSAGE value="Task description" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task description" />
+    <MESSAGE value="Creating a singleton class using a Private Constructor and a Public Static Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating a singleton class using a Private Constructor and a Public Static Method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
