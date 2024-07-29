@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Create a singleton using a Private Constructor and a Public Static Final Field">
-      <change afterPath="$PROJECT_DIR$/src/Task1/SingletonClassMethod3.java" afterDir="false" />
+    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Create a singleton using Enum constant.">
+      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/PhoneNumberDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/TaskDescription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -28,9 +32,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2joGzXNH3SZYF9Btby8mzJxCmiw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,12 +47,14 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
     "Application.SingletonClassMethod1.executor": "Run",
     "Application.SingletonClassMethod2.executor": "Run",
     "Application.SingletonClassMethod3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Yerdog/IdeaProjects/JavaJuniorInterviewTasks/src/Main.java"
   }
@@ -118,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722058468887</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create a singleton using Enum constant.">
+      <option name="closed" value="true" />
+      <created>1722059372358</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722059372358</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -128,7 +142,8 @@
     <MESSAGE value="Task description" />
     <MESSAGE value="Creating a singleton class using a Private Constructor and a Public Static Method" />
     <MESSAGE value="Create a singleton using a Private Constructor and a Public Static Final Field" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a singleton using a Private Constructor and a Public Static Final Field" />
+    <MESSAGE value="Create a singleton using Enum constant." />
+    <option name="LAST_COMMIT_MESSAGE" value="Create a singleton using Enum constant." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
