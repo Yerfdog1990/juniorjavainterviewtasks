@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Create a singleton using Enum constant.">
-      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/PhoneNumberDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/TaskDescription.java" afterDir="false" />
+    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment=" Phone number word decoder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2/PhoneNumberDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/PhoneNumberDecoder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task2/TaskDescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/TaskDescription.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,22 +42,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Main.executor": "Run",
-    "Application.SingletonClassMethod1.executor": "Run",
-    "Application.SingletonClassMethod2.executor": "Run",
-    "Application.SingletonClassMethod3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Yerdog/IdeaProjects/JavaJuniorInterviewTasks/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonClassMethod1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonClassMethod2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SingletonClassMethod3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Yerdog/IdeaProjects/JavaJuniorInterviewTasks/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -132,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722059372358</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary=" Phone number word decoder">
+      <option name="closed" value="true" />
+      <created>1722264880519</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722264880519</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -143,7 +150,8 @@
     <MESSAGE value="Creating a singleton class using a Private Constructor and a Public Static Method" />
     <MESSAGE value="Create a singleton using a Private Constructor and a Public Static Final Field" />
     <MESSAGE value="Create a singleton using Enum constant." />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a singleton using Enum constant." />
+    <MESSAGE value=" Phone number word decoder" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Phone number word decoder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

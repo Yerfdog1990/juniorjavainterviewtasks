@@ -4,7 +4,7 @@ import java.util.NoSuchElementException;
 
 public class PhoneNumberDecoder implements TaskDescription{
     @Override
-    public char covertLetter(char letter) {
+    public int covertLetter(char letter) {
         letter = Character.toUpperCase(letter);
         switch (letter){
             case 'A': case 'B': case 'C':
@@ -17,9 +17,9 @@ public class PhoneNumberDecoder implements TaskDescription{
                 return 5;
             case 'M': case 'N': case 'O':
                 return 6;
-            case 'P': case 'Q': case 'R':
+            case 'P': case 'Q': case 'R': case 'S':
                 return 7;
-            case 'S': case 'T': case 'U':
+            case 'T': case 'U': case 'V':
                 return 8;
             case 'W': case 'X': case 'Y': case 'Z':
                 return 9;

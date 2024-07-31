@@ -5,7 +5,7 @@ number with letters and then convert it to a number with digits only
  */
 public interface TaskDescription {
     //Method to covert the letter to number
-    char covertLetter(char letter);
+    int covertLetter(char letter);
     //Method to decode the phone number
     String decodePhoneNumber(String phoneNumber);
 }
