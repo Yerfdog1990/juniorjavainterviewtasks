@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment=" Phone number word decoder">
+    <list default="true" id="86831756-40c3-4451-8ca7-c3f02c74031e" name="Changes" comment="Phone number word decoder">
+      <change afterPath="$PROJECT_DIR$/src/Task3/CharacterArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/ReverseStringApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/PhoneNumberDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/PhoneNumberDecoder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task2/TaskDescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task2/TaskDescription.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722264880519</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Phone number word decoder">
+      <option name="closed" value="true" />
+      <created>1722389812521</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1722389812521</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -151,7 +160,8 @@
     <MESSAGE value="Create a singleton using a Private Constructor and a Public Static Final Field" />
     <MESSAGE value="Create a singleton using Enum constant." />
     <MESSAGE value=" Phone number word decoder" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Phone number word decoder" />
+    <MESSAGE value="Phone number word decoder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Phone number word decoder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
